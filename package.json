@@ -1,0 +1,20 @@
+{
+  "name": "@rejax/fsot",
+  "version": "0.0.1",
+  "description": "Tools of JavaScript File System Observer API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pb": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaxNext/fsot.git"
+  },
+  "author": "Jax (https://github.com/JaxNex)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaxNext/fsot/issues"
+  },
+  "homepage": "https://github.com/JaxNext/fsot#readme"
+}
